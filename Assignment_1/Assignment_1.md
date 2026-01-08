@@ -1,7 +1,7 @@
 # Assignment 1 
 
 ## Dataset
-The dataset was extracted from Huijben et al. (2018), which examined within-host competition in _Plasmodium chabaudi_ malaria parasites. This study measures how the presence of drug-sensitive parasites affects the fitness of drug-resistant strains under ecological stress. Experiment 2 used 13 groups to test various combinations of strain composition (single vs. mixed), initial parasite density, and drug treatment intensity. Host health was monitored through daily measurements of red blood cell (RBC) density and body weight, which are primary indicators of malaria (Huihben et al., 2018).
+The dataset was extracted from Huijben et al. (2018), which examined within-host competition in _Plasmodium chabaudi_ malaria parasites. This study measures how the presence of drug-sensitive parasites affects the fitness of drug-resistant strains under ecological stress. Experiment 2 used 13 groups to test different combinations of strain composition (single vs. mixed), parasite density, and drug treatment dosages. Host health was monitored through daily measurements of red blood cell (RBC) density and body weight, which are primary indicators of malaria (Huihben et al., 2018).
 
 ## Objective
 The primary biological objective is to determine whether the intensity of exploitation competition for limited host resources (RBCs) correlates with the severity of host pathology. This analysis aims to investigate whether a mixed infection results in greater host degradation, as both strains compete for the same niche. The asexual population of both pathogens will be analyzed, as this stage is responsible for host infection, while the gametic stage is responsible for transmission.
