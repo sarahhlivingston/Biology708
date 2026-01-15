@@ -24,6 +24,10 @@ data_clean <- remove_mice(data_clean, 13,4)
 nrow(data_original)
 nrow(data_clean)
 
+#remove R.gam and S.gam
+data_clean <- data_clean |>
+  select(-R.gam, -S.gam)
+
 #change Box and Mouse into factors
 data_clean <- data_clean |> mutate(
   Box = as.factor(Box),
